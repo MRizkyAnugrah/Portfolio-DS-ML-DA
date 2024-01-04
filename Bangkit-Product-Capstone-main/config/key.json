@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "starlit-byway-402907",
+  "private_key_id": "246e4ae23a42af2141f7dbee0bab842a1fc3c144",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDoq1IgJEIUk6MF\nz6vxCE7JTZKqvFyUy1oP5mLHUDoK/H1GKzELvqgmPlmsgcn7DGh+E4Btzqaj90ri\ntPBTvXRIKbeUrbOoyTRtlRVCBDn9Yr1mt/AtuvaYqwsnzns9pm+Fep6pSPkhorQq\nA2artZtXO/wSt6abcexsJ8gpvbGsO8S8gEYTYi39sD4hOcfLz73oBlR9MwgQ7gS1\nKogJ/K+amD6GOEaGF98fJpYrDOfENVgOCqK4T9T8xQfEJbBg8brQLIjpgEIz0haG\nwv4t70xiIM+inYweYRinhMWzYVzoIGnG3V7eLWGcNZ4iFhODgHKDjFceUQMo7388\np2L1gdGpAgMBAAECggEAEsddEgYLJVEDK+FmjcYvYbT2nPwl9sZw5u6f01lozeEy\nFTtAMqP5O1j18OPq0u3d8ysMxxASSBKaAzE6Ym/clkRzsjbQ1NMkfaG2PQVNTuOs\nyMEYzAAWjhzkAhr6vG+V+a57ZstifDH/G5L5sust9fz76+DRvCMWQ2Z0k9XhJLbo\n1SV5ys+7oW11quyvyrneYaAV6OCsHey1eon3cLbjA8gMoqFQi8tu+caXBD9tZiyq\nNICoBjO6qenlVhB7KJyzTn7QKp2M3lWCM5dG3uHI9JuM3yKGN1H5sxbVSwEVVP6r\n9ZAQkwhzGRAZK1PZvWc/E48JZghlbffJwit2V0BdHwKBgQD0Yirczk/7PKwbXT/k\nYGf52s9GWJmDVAYTDoa22wnC8s1wwqs4xvfLRez2hp55tc8tyy1UUqyaDvW0eSGD\n/PGDPxw/Iz/D/Pl8d1vTovTsyxcH++D2FnlR6KdpQ3TwDnfse1CrDeUnCOUxETuZ\nPoly6wRLdXLrZOFyAw/G8ov/vwKBgQDzupsnxhL5tZ02nT2if4fx9Qq+0iA75QMT\nWRXLfObi8Ywbxbs3dc29ZmXxGoZOnfGa2boeqNNeRs97j9jGJVUih0HdJipy2KuE\nfoBJVyLwR8MrJe5YnyOehh3hifevg63phn83jC9xXHIftKFp03kFH2Lm/rX/Qko5\nLBQctxAIlwKBgQCTMyokM/UDHImCNgnNErCuU7jz41wcOZkrE13beFYJ4dwS5n7h\nxR7uhqDz4SRFpVg0eiREnUOvzAD9gtTIPqxuZK4r7Zxz/cV8zhw2fvpOQwoNWg8n\ny2OqDZwBEIu4KM7dV23Aiq8Tcw0yH/IpHP0Hhj3hAc6FsQ8GcIepSuE+2wKBgA8G\nSdpB05mhIHflaY9C3VaFDIyG14XZsD7ZFwbcRD9pNIHhxpC8qloqnc4nHHBsPCCX\nm2mYbq85HkE3tN1CH+VpAR5o4+UAhlI8mhvrSzQUuGtIg1DjPobfLahhoOso6uei\nauU5txL95+scb3bemm8+aBJlUULTC1BK71J11n8xAoGBAMZPojTyfEmrKKLlz5OX\nrFDyx8uLvS/ztTakffnzXZDqxiAk8bzqKzFuCwSkmqP+LqKSTFRskO5hVRQNIGrv\nrYfjX4VY0xflX03j0aoF38OD+NV5Cvxi3+yruXXT7tfr/p2Q7tYRak5LEkXp04zB\n9O7UQiiDK27Yd8oQ1afwVQzM\n-----END PRIVATE KEY-----\n",
+  "client_email": "vision-ai@starlit-byway-402907.iam.gserviceaccount.com",
+  "client_id": "100653278104932487421",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vision-ai%40starlit-byway-402907.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
